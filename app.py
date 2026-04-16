@@ -4,7 +4,7 @@ import pandas as pd
 # Page Configuration
 st.set_page_config(page_title="Company Product Search", layout="wide")
 
-st.title("🔎 Universal Product Search")
+st.title("🔎 MOH / NUPCO Code Search")
 st.markdown("Search by **any** detail (ID, NUPCO Code, Description, Trade Code, etc.)")
 
 @st.cache_data
